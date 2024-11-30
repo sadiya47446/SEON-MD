@@ -3,9 +3,9 @@
 <a href = "#">
 <img src = "https://telegra.ph/file/3cef367ebfc7a45c10595.jpg"  width="300" height="300">
 </img>
- SADIYA MD WHATSAPP BOT
+ SEON MD WHATSAPP BOT
 <p align="center">
-<a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-MR.SADIYA OFC-red.svg?style=for-the-badge&logo=github"></a>
+<a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-Sadiya-Tech-Sanju-Bro-red.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
 <a href="https://github.com/sadiya44?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/AlipBot?color=green&style=flat-square"></a>
@@ -18,7 +18,7 @@
 
 # 
 
-SADIYA-MD whatsapp bot is,
+SEON MD whatsapp bot is,
 A very good bot that you can use in whatsapp.
 
 # 
@@ -40,4 +40,4 @@ A very good bot that you can use in whatsapp.
 5. deploy using your link 💖
 
 
-THANAKS FOR USNING SADIYA-MD
+THANAKS FOR USNING SEON-MD
